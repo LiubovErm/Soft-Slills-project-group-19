@@ -10,13 +10,16 @@ body {
   -webkit-text-size-adjust: 100%;
   text-align: center;
   margin: 10px 10px;
-  background-color: rgb(255, 232, 201);
+  background-color: rgb(204, 159, 100);
+  font-family: "Montserrat", sans-serif;
+  font-family: "Vollkorn", serif;
 }
 p {
   font-style: italic;
   font-size: 20px;
   letter-spacing: 2px;
-  font-weight: 600;
+  font-weight: 400;
+  color: rgb(0, 0, 0);
 }
 h3 {
   font-size: 22px;
